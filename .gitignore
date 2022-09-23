@@ -1,0 +1,14 @@
+Debug/
+ipch/
+x64/
+ReadPcr/Debug/
+.vs/
+
+ReadPcr.sdf
+ReadPcr.VC.db
+ReadPcr/ReadPcr.aps
+
+
+
+
+
